@@ -2,11 +2,14 @@
 
 
 void setup() {
-for (int i = 0; i < 255; i++)
-EEPROM.write(i, i);
+  Serial.begin(9600);
+  for (int i = 250; i < 253; i++){
+    EEPROM.write(i, i);
+  }
+  val = EEPROM[251];
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-
+  Serial.print(val);
+  delay(10000);
 }
