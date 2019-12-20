@@ -1,0 +1,3 @@
+Ejmplo de PIR con pantalla y buzzer: 
+https://www.tinkercad.com/things/5tBu3P6TAB0-copy-of-proyecto-electricidad-2019-con-lcd-alarma/editel?tenant=circuits?sharecode=pXdL9zJ76WO4V9M73XRAdWI96KNihG_X6ubIIL3QjGE=
+
